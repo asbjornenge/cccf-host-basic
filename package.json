@@ -1,0 +1,22 @@
+{
+  "name": "cccf-host",
+  "version": "1.0.0",
+  "description": "Add host to cccf config",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R nyan -w --check-leaks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asbjornenge/cccf-host.git"
+  },
+  "keywords": [
+    "cccf"
+  ],
+  "author": "Asbjorn Enge <asbjorn@hanafjedle.net>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/asbjornenge/cccf-host/issues"
+  },
+  "homepage": "https://github.com/asbjornenge/cccf-host"
+}
