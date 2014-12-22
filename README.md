@@ -13,11 +13,10 @@ For a productions setup you will most likely want use a more sophisticated modul
 
 ## Use
 
-	var ch = require('cccf-host-basic')
 	var hosts  = require('./hosts.json')
 	var containers = require('./cccf.json')
 
-	ch(containers, hosts)
+	require('cccf-host-basic')(containers, hosts)
 
 ## Changelog
 
