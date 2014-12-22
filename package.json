@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/asbjornenge/cccf-host/issues"
   },
-  "homepage": "https://github.com/asbjornenge/cccf-host"
+  "homepage": "https://github.com/asbjornenge/cccf-host",
+  "dependencies": {
+    "cccf": "^3.0.0"
+  }
 }
