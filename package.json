@@ -21,5 +21,9 @@
   "homepage": "https://github.com/asbjornenge/cccf-host",
   "dependencies": {
     "cccf": "^3.0.0"
+  },
+  "devDependencies": {
+    "cccf-scale": "^2.0.0",
+    "clone": "^0.2.0"
   }
 }
