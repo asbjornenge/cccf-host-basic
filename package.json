@@ -1,5 +1,5 @@
 {
-  "name": "cccf-host",
+  "name": "cccf-host-basic",
   "version": "1.0.0",
   "description": "Add host to cccf config",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/asbjornenge/cccf-host.git"
+    "url": "https://github.com/asbjornenge/cccf-host-basic.git"
   },
   "keywords": [
     "cccf"
@@ -16,9 +16,9 @@
   "author": "Asbjorn Enge <asbjorn@hanafjedle.net>",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/asbjornenge/cccf-host/issues"
+    "url": "https://github.com/asbjornenge/cccf-host-basic/issues"
   },
-  "homepage": "https://github.com/asbjornenge/cccf-host",
+  "homepage": "https://github.com/asbjornenge/cccf-host-basic",
   "dependencies": {
     "cccf": "^3.0.0"
   },
